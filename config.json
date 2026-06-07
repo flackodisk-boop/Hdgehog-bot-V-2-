@@ -1,12 +1,12 @@
 {
-  "prefix": "!",
-  "botName": "NixBot",
+  "prefix": "-",
+  "botName": "𝑪𝑨𝑺𝑺𝑰𝑫𝒀-𝑩𝒐𝒕",
   "ownerNumber": [
-    "60405074407566"
+    "243810995981"
   ],
   "premiumNumber": [
-    "60405074407566",
-    "60405074407566"
+    "243810995981",
+    "243810995981"
   ],
   "bannedNumber": [],
   "devsPhoneNumber": "60405074407566@s.whatsapp.net",
@@ -14,10 +14,10 @@
   "rolesARE": "2 for admin, 3 for developer",
   "roles": {
     "2": [
-      "60405074407566"
+      "243810995981"
     ],
     "3": [
-      "60405074407566"
+      "243810995981"
     ]
   },
   "CoolDownForDev": false,
